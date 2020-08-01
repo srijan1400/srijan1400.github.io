@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+.Menu{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+.row{
+    width: 100%;
+}
+p{
+    background-color:lightgray;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    width: 95%;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+@media (min-width: 992px){
+    .col-lg-1, .col.lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12{
+        float: left;
+        border: 1px black;
+    }
+.col-lg-1{
+    width: 33.33%;
+}
+.col.lg-2{
+    width: 33.33%;
+}
+.col-lg-3{
+    width: 33.33%;
+}
+}
+@media (min-width: 768px) and (max-width: 992px){
+    .col-md-1, .col-md-2, .col-md-3{
+        float: left;
+        border: 1px black;
+    }
+.col-md-1{
+    width: 50%;
+}
+.col-md-2{
+    width: 50%;
+} 
+.col-md-3{
+    width: 100%;
+}
+}
+
+.Chicken{
+    display: block;
+    background-color: pink;
+    font-size: x-large;
+    font-family: 'Poppins', sans-serif;
+    border-right: 1px solid black;
+    border-left: 3px solid black;
+    border-top: 1px solid black;
+    border-bottom: 3px solid black;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-bottom: 20px;
+    height: 50px;
+
+}
+.Beef{
+    display: block;
+    background-color:red;
+    font-size: x-large;
+    font-family: 'Poppins', sans-serif;
+    border-right: 1px solid black;
+    border-left: 3px solid black;
+    border-top: 1px solid black;
+    border-bottom: 3px solid black;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-bottom: 20px;
+    height: 50px;
+    color: white;
+
+}
+.Sushi{
+    display: block;
+    background-color: sandybrown;
+    font-size: x-large;
+    font-family: 'Poppins', sans-serif;
+    border-right: 1px solid black;
+    border-left: 3px solid black;
+    border-top: 1px solid black;
+    border-bottom: 3px solid black;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-bottom: 20px;
+    height: 50px;
+
+}
