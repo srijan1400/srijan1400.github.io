@@ -1,6 +1,11 @@
 .navlist{
     list-style: none;
 }
+.heading{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+}
 .topnav a{
     float: left;
     text-align: center;
