@@ -551,3 +551,145 @@ li{
     margin-top: -30px;
     margin-right: -20px;
 }
+.events_image{
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin-top: 15px;
+    margin-left: 240px;
+    border-style: solid;
+    border-color: black;
+
+}
+.events{
+    background-color: grey;
+    color: maroon;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    height: 330px;
+}
+.events h2{
+    color:maroon;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-right: 350px;
+    margin-top: 30px
+    
+}
+.events h3{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 555px;
+    margin-top: -30px;
+}
+.events h4{
+    color: maroon;
+    font-size: 25px;
+    text-align: center;
+    margin-top: -20px;
+    margin-right: 215px;
+}
+.events_button1{
+    color:white;
+    background-color:red;
+    padding: 12px 19px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    margin-top: -110px;
+    margin-left: 618px;
+    float: left;
+}
+.events_placeholder1{
+    width: 25%;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    margin-left: 330px;
+    height: 550px;
+    margin-top: 40px;
+}
+.events_placeholder2{
+    width: 25%;
+    display: inline-flex;
+    border-style: solid;
+    border-color: black;
+    margin-top: 13px;
+    height: 550px;
+    margin-top: 53px;
+}
+.event_place_img1{
+    padding-left: 50px;
+    width: 370px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: -25px;
+}
+.event_place_img2{
+    padding-left: 50px;
+    width: 340px;
+    height: 300px;
+}
+.events_placeholder1 h4{
+    font-size: 20px;
+    color: black;
+    margin-top: 15px;
+    margin-left: -105px;
+}
+.events_placeholder2 h4{
+    font-size: 20px;
+    color: black;
+    margin-top: 339px;
+    margin-left: -320px;
+}
+.events_placeholder1 h3{
+    color: maroon;
+    font-size: 25px;
+    margin-left: -45px;
+    margin-top: -100px;
+}
+.events_placeholder2 h3{
+    color: maroon;
+    font-size: 25px;
+    margin-top: 430px;
+    margin-left: -217px;
+    margin-top: 385px;
+}
+.events_placeholder1 h2{
+    color: black;
+    font-size: 18px;
+    margin-left: -160px;
+    margin-top: -10px;
+}
+.events_placeholder2 h2{
+    color: black;
+    font-size: 18px;
+    margin-top: 445px;
+    margin-left: -285px;
+}
+.events_placeholder1 a{
+    text-decoration: none;
+    color: maroon;
+    font-size: 20px;
+    margin-left: 220px;
+}
+.events_placeholder2 a{
+    text-decoration: none;
+    color: maroon;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 500px;
+}
+.event_button3{
+    color:white;
+    background-color:red;
+    padding: 20px 500px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 180px;
+}
