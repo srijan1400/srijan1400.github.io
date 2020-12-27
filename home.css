@@ -56,21 +56,23 @@
 .section1{
     background-color:black;
     padding: 100px;
-    margin-top: 50px;
+    margin-top: 0px;
 
 }
 img{
     position: relative;
 }
+
 .intro_section1{
     font-family: 'Roboto', sans-serif;
     text-align: left;
     margin-top: 0px;
-    font-size: 30px;
-    color: white;
+    font-size: 50px;
+    color: #f1f1f1;
     margin-left: 10px;
     margin-left: 50px;
 }
+
 .section1_content{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -78,9 +80,10 @@ img{
     margin-left: 50px;
 
 }
+
 .button2{
     color:black;
-    background-color:white;
+    background-color:#f1f1f1;
     padding: 20px 19px;
     display: inline-block;
     text-align: center;
@@ -88,10 +91,18 @@ img{
     margin-top: 12px;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
+    border-radius: 7px;
+    color: #290f0f;
+    border: none;
 }
+
+.button2:hover{
+    background-color: #af0a0a;
+    color: #f5f5f5;
+}
+
 .button3{
     color:black;
-    background-color:white;
     padding: 20px 19px;
     display: inline-block;
     text-align: center;
@@ -99,7 +110,18 @@ img{
     margin-top: 25px;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
+    border-radius: 7px;
+    color: #f5f5f5;
+    background-color: #000000;
+    border: 2px solid #f1f1f1;
 }
+
+.button3:hover{
+    background-color: black;
+    border-color: #1d1b1b;
+}
+
+
 .intro_section2{
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -141,7 +163,7 @@ h2{
 }
 .pic{
     border-radius: 50%;
-    box-shadow: 0px 0px 10px 10px pink;
+    box-shadow: 0px 0px 12px 8px #ffccff;
     position: relative;
     margin-left: 160px;
 }
@@ -231,29 +253,50 @@ h4{
     color: maroon;
     font-family: 'Roboto', sans-serif;
 }
+
+.button4{
+    color:white;
+    background-color:#a60c00;
+    padding: 12px 19px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    border-radius:7px;
+    border:none;
+    box-shadow: 3px 3px 5px grey;
+}
+
 .button5{
     color:white;
-    background-color:red;
-    padding: 8px 10px;
+    background-color:#a60c00;
+    padding: 12px 19px;
     display: inline-block;
     text-align: center;
-    height: 50px;
-    width: 220px;
-    margin-left: 30px;
+    margin-left: 180px;
+    margin-top: 12px;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
+    border-radius:7px;
+    border:none;
+    box-shadow: 3px 3px 5px grey;
 }
+
 .button6{
     color:white;
-    background-color:red;
-    padding: 8px 10px;
+    background-color:#a60c00;
+    padding: 12px 19px;
     display: inline-block;
-    height: 50px;
-    width:270px;
     text-align: center;
-    margin-left: 80px;
+    margin-left: 180px;
+    margin-top: 12px;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
+    border-radius:7px;
+    border:none;
+    box-shadow: 3px 3px 5px grey;
 }
 .column1{
     background-color: black;
