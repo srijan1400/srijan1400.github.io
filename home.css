@@ -355,13 +355,22 @@ h4{
     font-family: 'Roboto', sans-serif;
 }
 .button7{
-    color: white;
-    background-color: maroon;
-    border:5px  black;
+    background-color:#a60c00;
+    padding: 20px 19px;
+    display: inline-block;
     text-align: center;
-    font-size: 20px;
-    padding: 8px 10px;
-    margin-top: 30px;
+    margin-left: 20px;
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    border-radius: 7px;
+    color: #f5f5f5;
+    border: 2px solid #f1f1f1;
+}
+
+.button7:hover{
+    background-color: black;
+    border-color: #1d1b1b;
 }
 .footer1{
     background-color: black;
@@ -458,14 +467,17 @@ h4{
 }
 .placeholder_button{
     color:white;
-    background-color:red;
+    background-color:#a60c00;
     padding: 12px 19px;
+    display: inline-block;
+    text-align: center;
     margin-left: 180px;
     margin-top: 12px;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
-    text-align: left;
-    margin-left: -2px;
+    border-radius:7px;
+    border: none;
+    box-shadow: 3px 3px 5px grey;
 }
 .placeholder_main1{
     border-color: black;
