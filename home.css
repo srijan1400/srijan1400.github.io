@@ -547,3 +547,348 @@ li{
     margin-top: -30px;
     margin-right: -20px;
 }
+.events_image{
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin-top: 15px;
+    margin-left: 240px;
+    border-style: solid;
+    border-color: black;
+
+}
+.events{
+    background-color: grey;
+    color: maroon;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    height: 330px;
+}
+.events h2{
+    color:maroon;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-right: 350px;
+    margin-top: 30px
+    
+}
+.events h3{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 555px;
+    margin-top: -30px;
+}
+.events h4{
+    color: maroon;
+    font-size: 25px;
+    text-align: center;
+    margin-top: -20px;
+    margin-right: 215px;
+}
+.events_button1{
+    color:white;
+    background-color:red;
+    padding: 12px 19px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    margin-top: -110px;
+    margin-left: 618px;
+    float: left;
+}
+.events_placeholder1{
+    width: 25%;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    margin-left: 330px;
+    height: 550px;
+    margin-top: 40px;
+}
+.events_placeholder2{
+    width: 25%;
+    display: inline-flex;
+    border-style: solid;
+    border-color: black;
+    margin-top: 13px;
+    height: 550px;
+    margin-top: 53px;
+}
+.event_place_img1{
+    padding-left: 50px;
+    width: 370px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: -25px;
+}
+.event_place_img2{
+    padding-left: 50px;
+    width: 340px;
+    height: 300px;
+}
+.events_placeholder1 h4{
+    font-size: 20px;
+    color: black;
+    margin-top: 15px;
+    margin-left: -105px;
+}
+.events_placeholder2 h4{
+    font-size: 20px;
+    color: black;
+    margin-top: 339px;
+    margin-left: -320px;
+}
+.events_placeholder1 h3{
+    color: maroon;
+    font-size: 25px;
+    margin-left: -45px;
+    margin-top: -100px;
+}
+.events_placeholder2 h3{
+    color: maroon;
+    font-size: 25px;
+    margin-top: 430px;
+    margin-left: -217px;
+    margin-top: 385px;
+}
+.events_placeholder1 h2{
+    color: black;
+    font-size: 18px;
+    margin-left: -160px;
+    margin-top: -10px;
+}
+.events_placeholder2 h2{
+    color: black;
+    font-size: 18px;
+    margin-top: 445px;
+    margin-left: -285px;
+}
+.events_placeholder1 a{
+    text-decoration: none;
+    color: maroon;
+    font-size: 20px;
+    margin-left: 220px;
+}
+.events_placeholder2 a{
+    text-decoration: none;
+    color: maroon;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 500px;
+}
+.event_button3{
+    color:white;
+    background-color:red;
+    padding: 20px 500px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 180px;
+}
+.dash_head{
+    background-color: bisque;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 70px;
+    font-size: 30px;
+}
+.dash1 img{
+    height: 200px;
+    width: 220px;
+
+    margin-top: -70px;
+    margin-left: -29px;
+}
+.dash1{
+    width: 25%;
+    border-style: solid;
+    border-color: black;
+    padding: 100px;
+    position: absolute;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bold;
+    padding-bottom: -180px;
+}
+.dash2 img{
+    height: 200px;
+    width: 250px;
+
+    margin-top: -70px;
+    margin-left: -29px;
+}
+.dash2{
+    width: 25%;
+    border-style: solid;
+    border-color: black;
+    padding: 100px;
+    margin-left: 765.5px;
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.dash3 img{
+    height: 200px;
+    width: 250px;
+
+    margin-top: -70px;
+    margin-left: -29px;
+}
+.dash3{
+    width: 25%;
+    border-style: solid;
+    border-color: black;
+    padding: 100px;
+    margin-left: 385px;
+    margin-top: -465px;
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.dash4 img{
+    height: 200px;
+    width: 250px;
+
+    margin-top: -70px;
+    margin-left: -29px;
+}
+.dash4{
+    width: 25%;
+    border-style: solid;
+    border-color: black;
+    padding: 100px;
+    margin-left: 1147px;
+    margin-top: -465.5px;
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.dash-button1{
+    color:white;
+    background-color:red;
+    padding: 12px 19px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+.dash-button2{
+    color:white;
+    background-color:red;
+    padding: 12px 19px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+.dash-button3{
+    color:white;
+    background-color:red;
+    padding: 12px 19px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+.dash-button4{
+    color:white;
+    background-color:red;
+    padding: 12px 19px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+.background-top{
+    background-color: lightgreen;
+    padding: 100px 80px;
+}
+.background-top img{
+    margin-bottom: -190px;
+    width: 210px;
+    height: 190px;
+    margin-left: 50px;
+    border-radius: 7px;
+}
+.Name{
+    margin-left: 130px;
+
+}
+.Name h2{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+.Name h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+.About{
+    text-align: left;
+    margin-left: 130px;
+}
+.About h2{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+.About_details{
+    padding: 90px 90px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 120px;
+    margin-right: 155px;
+}
+.Volunteering_details h2{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+.Volunteering_details{
+    margin-left: 130px;
+}
+.Recommender{
+    margin-left: 130px;
+
+}
+.Recommender h2{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+.Rec-details{
+    padding: 90px 90px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 120px;
+    margin-right: 155px;
+}
+.rec-pic2{
+    margin-left: 100px;
+}
+.rec-pic3{
+    margin-left: 100px;
+}
+.rec-pic4{
+    margin-left: 50px;
+}
